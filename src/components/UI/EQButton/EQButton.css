@@ -1,0 +1,25 @@
+.everquest-button {
+    background-color: #0c0c0c;
+    /* Dark background color */
+    color: #c2c2c2;
+    /* Light text color */
+    padding: 10px 20px;
+    /* Padding for the button */
+    font-size: 16px;
+    /* Font size */
+    border: 2px solid #484848;
+    /* Border color */
+    border-radius: 5px;
+    /* Rounded corners */
+    cursor: pointer;
+    /* Change cursor on hover */
+    transition: background-color 0.3s, color 0.3s;
+    /* Smooth transition */
+}
+
+.everquest-button:hover {
+    background-color: #1a1a1a;
+    /* Darker background color on hover */
+    color: #ffffff;
+    /* White text color on hover */
+}

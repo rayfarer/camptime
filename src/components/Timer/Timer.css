@@ -1,0 +1,9 @@
+.Timer {
+    background-color: #000000;
+    width: 90px;
+    color: green;
+    font-size: 1em;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+}

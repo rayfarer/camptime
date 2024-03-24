@@ -1,0 +1,24 @@
+/* ProgressBar.css */
+.progress-bar-container {
+    width: 250px;
+    height: 10px;
+    background-color: #ddd;
+    /* Gray background for the progress bar container */
+    border-radius: 4px;
+    margin-top: 10px;
+    font-size: 8px;
+}
+
+.progress-bar {
+    float: left;
+    height: 100%;
+    border-radius: 4px;
+    transition: width 0.3s ease-in-out;
+    /* Smooth transition for width changes */
+}
+
+.dice-icon {
+    align-items: center;
+    float: right;
+    /* Smooth transition for width changes */
+}
