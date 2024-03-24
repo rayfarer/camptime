@@ -5,8 +5,7 @@ import { getFunctions, httpsCallable } from 'firebase/functions';  // import onl
 console.log(import.meta.env.VITE_FIREBASE_API_KEY)
 
 const firebaseConfig = {
-    apiKey: import.meta.env.VITE_FIREBASE_API_KEY
-    ,
+    apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
     authDomain: import.meta.env.VITE_FIREBASE_PROJECT_ID,
     projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
     storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
