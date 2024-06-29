@@ -1,5 +1,7 @@
 # Camptime
 
+[![Click to watch the video](https://img.youtube.com/vi/uXUeahuWQuo/0.jpg)](https://www.youtube.com/watch?v=uXUeahuWQuo)
+
 ## What is this?
 An EverQuest mob timer and (un)luckiness meter.
 
