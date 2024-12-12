@@ -5,7 +5,7 @@
 ## What is this?
 An EverQuest mob timer and (un)luckiness meter.
 
-## Buy why?
+## But why?
 Mostly just for fun. I frequently settle in for long camps where I am semi-AFK and want to be notified when the mob I'm camping is scheduled to reappear. I started building a [Python script](https://github.com/rayfarer/eq-scripts/tree/master/camptime) and realized a GUI tool would be more fun and maybe other people would use it.
 
 ## How did you build this?
