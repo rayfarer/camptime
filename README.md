@@ -10,7 +10,7 @@ Mostly just for fun. I frequently settle in for long camps where I am semi-AFK a
 
 ## How did you build this?
 Frontend: React (Vite)
-Backend: Firebase Firestore, Storage, Cloud Functions and Auth. The EverQuest loot tables and all other data is stored in a SQL AWS RDS.
+Backend: Firebase Firestore, Storage, Cloud Functions and Auth. The EverQuest loot tables and all other data are stored in a SQL AWS RDS.
 
 ## Can I contribute?
 Absolutely. I plan on hosting the site soon, but any PRs are welcome. I sometimes live stream code sessions on Twitch.
